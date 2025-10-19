@@ -19,8 +19,8 @@ public class EmailTestController {
         try {
             SimpleMailMessage message = new SimpleMailMessage();
             message.setTo(to);
-            message.setSubject("Ya funciona");
-            message.setText("ya funciona lo de enviar correos xddd, ahora me falta conectarlo con el de cliente");
+            message.setSubject("...");
+            message.setText("..");
             message.setFrom("bsgonzalez14a@gmail.com");
 
             mailSender.send(message);

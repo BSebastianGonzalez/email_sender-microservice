@@ -1,0 +1,5 @@
+com\example\email_sender\listener\EmailListener.class
+com\example\email_sender\EmailSenderApplication.class
+com\example\email_sender\controller\EmailTestController.class
+com\example\email_sender\event\ClienteCreadoEvent.class
+com\example\email_sender\config\RabbitMQConfig.class
